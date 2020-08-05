@@ -13,3 +13,4 @@ int main(void)
 
 
 //Para compilarlo por la pagina usamos el comando clang -o hola.c hola.c -lcs50
+//Para compilar podemos usar solo make hola.c
